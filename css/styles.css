@@ -1,0 +1,138 @@
+body{
+    margin: 0; 
+    text-align: center
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Yellowtail', cursive;
+    font-size: 4.5rem;
+    color: #11999e;
+    
+}
+
+h2{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 1.5rem;
+    color: #11999e;
+    
+    
+}
+
+h3{
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #66bfbf;
+}
+
+p{
+    margin-top: 0px;
+    font-family: 'Karla', sans-serif;
+    color: #40514E;
+}
+a{
+    color: #11999e; 
+    font-family: 'Karla', sans-serif;
+    margin: 20px 30px;
+    text-decoration: none;
+}
+hr{
+    border-style: none none dotted;
+    border-width: 10px;
+    width: 8%;
+    color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.top-container{
+    background-color:paleturquoise;
+    padding-top : 300px;
+    position: relative;
+    
+}
+
+.middle-container{
+    padding-top: 60px;
+   
+}
+
+.bottom-container{
+    margin: 20px auto none;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    background-color:paleturquoise;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 100px;
+    
+}
+.mountain{
+    padding-top: 50px;
+}
+.profile{
+    padding-top: 50px;
+}
+.skill-row{
+   width: 50%;
+   margin: 150px auto auto;
+   text-align: left;
+   line-height: 2;
+   padding-bottom: 50px;
+    
+}
+.doc{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.bag{
+    width: 25%;
+    float: right;
+}
+.padding{
+    padding-top: 100px ;
+}
+.web{
+    font-family: 'Karla', sans-serif;
+}
+.skills{
+    padding-bottom: 50px;
+}
+
+
+.myButton {
+    margin: 60px auto 60px;
+	box-shadow: 0px 0px 17px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#11999e;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Karla', sans-serif;
+	font-size:16px;
+	padding:17px 42px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+    padding-top: 30px;
+    color: #EAF6F6;
+}
+   
